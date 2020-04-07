@@ -1,0 +1,15 @@
+{
+    "region": "eu-west-1",
+    "userPool": "eu-west-1_rER5XtY8P",
+    "userPoolBaseUri": "https://auth.minglesupermarket.co.uk",
+    "clientId": "lgjaj03p59o858h58ki8c3o5l",
+    "callbackUri": "https://www.minglesupermarket.co.uk/callback",
+    "signoutUri": "https://www.minglesupermarket.co.uk",
+    "tokenScopes": [
+        "openid",
+        "email",
+        "profile",
+        "https://auth.minglesupermarket.co.uk/hello-world.all"                
+    ],
+    "apiUri": "https://auth-api.minglesupermarket.co.uk"
+}
